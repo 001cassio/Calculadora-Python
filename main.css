@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.botoes{
+
+}
+.visor{
+    padding: 3em 9em ;
+}
+section div table td {
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #edbbdb;
+}
+.botao{
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    color: #000;
+}
+section div table td:hover{
+    background-color: #fff;
+}
