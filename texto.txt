@@ -1,0 +1,1 @@
+Unity Hub permite encontrar, baixar e gerenciar mais facilmente suas instalações do Unity Editor e visualizar todos os projetos Unity. Além disso, o Unity Hub ajuda você a descobrir novas funções que facilitam a inicialização - como por exemplo Templates.
